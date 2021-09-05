@@ -1,0 +1,8 @@
+name: KAntiScript
+version: '${project.version}'
+main: kantiscript.kle.plugin.KAntiScript
+api-version: 1.16
+authors: [ kaile ]
+commands:
+  kantiscripts:
+    aliases: [kanti,antik]
